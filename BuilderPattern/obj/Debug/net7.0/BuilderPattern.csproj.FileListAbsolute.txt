@@ -1,0 +1,15 @@
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\Back\RiderProjects\DesignPatternsShowcase\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll
